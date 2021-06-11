@@ -7,11 +7,5 @@ return <View>
 </View>
 };
 
-const styles = StyleSheet.create({
-textStyle:{
-    fontSize:50
-}
-});
-
 
 export default ComponentScreen
